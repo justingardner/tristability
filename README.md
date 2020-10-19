@@ -1,0 +1,2 @@
+# tristability
+Tristable perception model
